@@ -1,0 +1,8 @@
+venv/
+.idea/
+.*_cache/
+__pycache__
+.coverage
+/include/
+/Lib/
+/Scripts/
